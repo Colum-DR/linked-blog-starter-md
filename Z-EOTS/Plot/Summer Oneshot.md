@@ -30,4 +30,6 @@ Archfey base: https://www.5esrd.com/database/creature/queen-titania/
 
 Puzzles: STEAL FROM WATER DUNGEON DOCUMENT!!!!!!!!!
 
-NPCS: [[Grog]], Captain Amontillado, Captain N'gathrod, 
+NPCS: [[Grog]], Captain Amontillado, Captain N'gathrod, [[Leofaang]] the Green dragon
+
+ Sea hag coven: [[Ira Angler]], [[Cliona Angler]], [[Onyx Angler]]
