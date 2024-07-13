@@ -1,0 +1,1 @@
+The Ship belonging to [[Morelle Belguarde]] at the start of the campaign. It gets destroyed when the party crosses the storm wall.

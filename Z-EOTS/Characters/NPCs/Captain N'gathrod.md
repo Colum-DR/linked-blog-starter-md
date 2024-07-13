@@ -1,0 +1,1 @@
+An illithid pirate captain, his Spelljammer, [[The Nautiloid]], is crashlanded and hid in a cave on [[Tartarus Isle]].

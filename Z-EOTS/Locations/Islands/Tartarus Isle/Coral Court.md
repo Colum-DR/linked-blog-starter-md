@@ -1,0 +1,1 @@
+The palace of [[Amu Aau]] which sits within [[Jaw Reef]], on the edge of [[Tartarus Isle]]. It is a large, alive, growing, and ever shifting structure made out of coral. When it detects outsiders, it will present them with a dungeon testing their wits, to make sure they are worthy of speaking with [[Amu Aau]]. 

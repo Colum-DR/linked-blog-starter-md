@@ -14,6 +14,8 @@ To make the draught, the party will need to convince a group of Sea hags which a
 
 Starting location: The city of [[Stormfronte]], on [[Tudorille]]. There the party is meeting in a shady backstreet saloon, where they are waiting for a client who's hired them for a hefty sum on cash. That client is [[Captain Amontillado]], who is a Pirate captain who used to command a number of ships, but all except her flagship have gone missing since they went out on an expedition. The captain tells them that the ships were headed for the [[Jaw Reef]], following rumors of some powerful magic item there. 
 
+The party is given a small ship and crew to help them get to the island. 
+
 The party will land in [[Onceville]]
 
 
@@ -27,3 +29,5 @@ Reef: Sea Hags, Hydra, 5x meenlock, 3x warlock of the archfey
 Archfey base: https://www.5esrd.com/database/creature/queen-titania/
 
 Puzzles: STEAL FROM WATER DUNGEON DOCUMENT!!!!!!!!!
+
+NPCS: [[Grog]], Captain Amontillado, Captain N'gathrod, 

@@ -1,2 +1,2 @@
-Locations: [[Deathspit Bayou]], [[Jaw Reef]]
+Locations: [[Deathspit Bayou]], [[Jaw Reef]], [[Orkenwood]], [[Onceville]]
 Characters: [[Amu Aau]]

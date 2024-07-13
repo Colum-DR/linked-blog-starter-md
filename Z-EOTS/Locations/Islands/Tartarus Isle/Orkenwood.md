@@ -1,0 +1,1 @@
+Located on [[Tartarus Isle]], the orkenwood is where many orcs of the archipelago call home

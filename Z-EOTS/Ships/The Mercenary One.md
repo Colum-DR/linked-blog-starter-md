@@ -1,0 +1,2 @@
+The ship the party in the [[Summer Oneshot]] uses. It is captained by XXX.
+ This is a small sailing ship intended to be able to traverse shoals and reefs without much issue, it has been outfitted with a reinforced hull.
