@@ -1,0 +1,1 @@
+[[Morelle Belguarde]]'s father and husband of [[Emelia Belguarde]], one of the members of Sandman, the team which won the Great Race and made a wish which changed the future of [[M.E.D.O.]]

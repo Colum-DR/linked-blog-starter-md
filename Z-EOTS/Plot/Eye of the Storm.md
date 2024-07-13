@@ -1,0 +1,4 @@
+-This is the plot document
+The first sessions of the campaign take place in [[M.E.D.O.]] with the party meeting at the tavern owned by [[Emelia Belguarde]] and [[Napoleon Belguarde]] being recruited by [[Morelle Belguarde]] to be on her expedition crew to the [[The Stormcleft Archipelago]]. This crew consists of [[Marlyn Mervoice]], [[Blitz Mirencrest]], [[Caspia Sparrow]], and [[Vaelthyr]].
+Once the party reaches the Storm Wall, their ship, the Free Bird, gets dragged under the water and destroyed by a mysterious creature, causing the party to end up marooned on maroon isle.
+One the party ends up in [[The Stormcleft Archipelago]] they will travel around for a bit, looking for clues about the treasure, and eventually stumbling upon the legend of the [[Four Elemental Orbs]], which are said to be the key to untold riches which are held at the center of the archipelago. 

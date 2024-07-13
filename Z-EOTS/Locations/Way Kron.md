@@ -1,0 +1,1 @@
+The largest city in [[M.E.D.O.]], it is a haven for progress, crime, and everything in between, it is also where [[Emelia Belguarde]] and [[Napoleon Belguarde]] have made their home. It's the birthplace of [[Morelle Belguarde]] and where the party will first meet.

@@ -1,0 +1,1 @@
+A small pond at the center of the [[Deathspit Bayou]], it's waters tar black and green streaked, drinking this water will automatically apply 4 levels of exhaustion. The creatures that inhabit the surrounding area are mostly horrors and occasionally a green dragon. 

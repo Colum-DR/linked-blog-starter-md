@@ -1,0 +1,1 @@
+A continental Empire with a democratic government. it's a couple hundred miles west of [[The Stormcleft Archipelago]]
