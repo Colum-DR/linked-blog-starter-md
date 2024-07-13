@@ -25,3 +25,5 @@ Swamp: Adult Green Dragon, 3x nightmare, 5x orc eye of gruumsh
 Reef: Sea Hags, Hydra, 5x meenlock, 3x warlock of the archfey
 
 Archfey base: https://www.5esrd.com/database/creature/queen-titania/
+
+Puzzles: STEAL FROM WATER DUNGEON DOCUMENT!!!!!!!!!
