@@ -4,4 +4,4 @@ The Cold Below is the most feral and primordial force originating from the far r
 
 The Cold Below has a difficult time manifesting in the material plane, and usually will need some form of assistance, thus, it will make deals with native residents of the plane to gain more footing. 
 
-Currently there is a tiny 
+Currently there is a tiny crack on the ocean floor being used as a way for the Cold to seep into the material plane. This crack is also where [[Amu Aau]] has been imprisoned, and though she is quite resistant, The Cold has already begun to take hold of her actions. 
